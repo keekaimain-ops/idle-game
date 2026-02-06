@@ -1,0 +1,14 @@
+{
+  "name": "flamingo-clicker-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World landing page for Flamingo Clicker game",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["flamingo", "clicker", "game", "hello-world"],
+  "author": "Keek Dev Studio",
+  "license": "MIT",
+  "homepage": "https://github.com/keekaimain-ops/idle-game"
+}
